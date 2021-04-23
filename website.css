@@ -1,0 +1,156 @@
+.div1{
+    background-color:#EAF6F6;
+    width: 100%;
+    height: 620px;
+}
+#im1{
+    position:absolute;
+    bottom: 1px;
+    left:30%;
+    
+}
+#im2{
+ position:absolute;
+ top: 35px;
+ right:10%;
+}
+#im3{
+    position:absolute;
+    top:50%;
+    left: 8%;
+}
+#h1{
+    color:#66BFBF;
+    text-align: center;
+    padding-top: 8%;
+    font-family:cursive;
+}
+#h2{
+    color: #66BFBF;
+    text-align: center;
+    padding: 46px;
+}
+.div2{
+    width: 100%;
+    margin-top:  50px;
+    text-align: center;
+}
+#im4{
+    width: 130px;
+    height: 130px;
+    text-align: center;
+    border-radius: 50%;
+}
+#h3{
+    color:#66BFBF;
+    padding-top: 20px;
+}
+#p1{
+    padding-top: 30px;
+    color: #40514E;
+}
+#p2{
+    color: #EAF6F6;
+    padding-top: 40px;
+}
+#h4{
+    color: #66bfbf;
+    padding-top: 40px;
+}
+#div7{
+ 
+   margin-top: 50px;
+    
+}
+#im5{
+    
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 15px;
+    margin-left: 400px;
+    
+    
+}
+#h5{
+    color: #11999E;
+    padding-top: 20px;
+}
+#p3{
+    color: #40514E;
+}
+#div9{
+   margin-top: 65px;
+}
+#im6{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    float:right;
+    margin-right: 400px;
+    /* margin-left: 15px; */
+    
+}
+#h6{
+    color: #11999E;
+    padding-top: 20px;
+    margin-left: 28%;
+}
+#p4{
+    color: #40514E;
+    margin-left: 28%;
+}
+.hh11{
+    color: #EAF6F6;
+    padding-top: 40px;
+    text-align: center;
+}
+.end{
+    text-align: center;
+}
+.h22{
+    color: #66bfbf;
+    padding-top: 40px;
+}
+#h3end{
+    color: #11999E;
+    padding-top: 20px;
+}
+#pend{
+    color: #40514E;
+    margin-top: 30px;
+}
+form{
+    margin-top: 40px;
+   color: white;
+   
+}
+input{
+    background-color: #11999E;
+    
+}
+footer{
+    width: 100%;
+    height: 130px;
+    background-color: #66BFBF;
+    margin-top: 60px;
+    text-align: center;
+    
+}
+ul{
+    padding-top: 40px;
+}
+li{
+    color: #11999E;
+    display: inline;
+    margin: 40px;
+    
+}
+a:hover{
+    color: white;
+}
+#class{
+    color: #EAF6F6;
+ padding-top: 15px;
+}
